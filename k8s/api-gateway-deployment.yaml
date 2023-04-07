@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: api-gateway
-          image: 080196/microservice
+          image: thangdz233/microservice
           ports:
             - name: http
               containerPort: 3000
